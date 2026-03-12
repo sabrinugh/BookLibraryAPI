@@ -3,7 +3,7 @@ Date: 12th March 2026
 Detail: Book class creation, including data fields required for an instance of Book in the library.
 
 */
-package com.example.booklibrary;
+package com.example.booklibrary.model;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -72,8 +72,4 @@ public class Book {
     public void setRead(boolean read) {
         this.read = read;
     }
-
-
-
-
 }
