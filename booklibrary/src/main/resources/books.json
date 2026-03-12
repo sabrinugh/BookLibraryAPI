@@ -1,0 +1,23 @@
+[
+    {
+        "title":"The Hitchhikers Guide to the Galaxy",
+        "author":"Douglas Adams",
+        "isbn":"0-330-25864-8",
+        "description":"A man's adventure when navigating the destruction of the world",
+        "read":false
+    },
+    {
+        "title":"I Am Pilgrim",
+        "author":"Terry Haynes",
+        "isbn":"9780552160964",
+        "description":"A retired espionage agent, he's recruited once again to save America; a race through the Middle East to prevent a biological war",
+        "read":true
+    },
+    {
+        "title":"Pride and Prejudice",
+        "author":"Jane Austen",
+        "isbn": "9789357003001",
+        "description":"A woman's prejudice against a man, and a man's pride in apologising.",
+        "read":true
+    }
+]
